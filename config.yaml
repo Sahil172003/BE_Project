@@ -1,0 +1,10 @@
+credentials:
+  usernames:
+    admin:
+      email: admin@example.com
+      name: Admin User
+      password: $2b$12$tS/VztKWH4rF.8nUdi7y7.B5OXy1TMM.ntH.qMq9pH5SdBYw9g64q  # hashed password for 'admin123'
+cookie:
+  expiry_days: 30
+  key: some_signature_key
+  name: some_cookie_name
